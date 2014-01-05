@@ -2,8 +2,8 @@
 layout: page
 title: Résumé
 ---
-# Rasmus Andersson
-<a href="http://www.flickr.com/photos/rsms/tags/me" title="View more pictures..."><img src="http://farm2.static.flickr.com/1236/940404344_d829446099_m.jpg" width="240" height="240" align="right" alt="Picture of Rasmus Andersson" style="margin-left:20px" /></a>
+# Kirt Goh
+<a href="http://www.flickr.com/photos/rsms/tags/me" title="View more pictures..."><img src="http://farm2.static.flickr.com/1236/940404344_d829446099_m.jpg" width="240" height="240" align="right" alt="Picture of Kirt Goh" style="margin-left:20px" /></a>
 
 ## Introduction
 
