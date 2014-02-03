@@ -1,0 +1,12 @@
+@charset "UTF-8";
+/* CSS Document */
+
+body {
+	margin-left: 7%;
+	padding-left: 5%;
+	width: 80%;
+	color: #333;
+	font-family: Arial, Verdana, "Lucida Bright", Helvetica, sans-serif;
+	background: #FFF;
+	min-width: 700px;
+}
