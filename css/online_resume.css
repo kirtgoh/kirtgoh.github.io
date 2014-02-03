@@ -10,3 +10,49 @@ body {
 	background: #FFF;
 	min-width: 700px;
 }
+h1, h2, h3, h4, h5, h6 {
+	text-indent: -0.75em;
+	letter-spacing: 0.1em;
+	margin: 1.5em 0px 0px;
+	text-transform: uppercase;
+	color: #337;
+	padding: 0px;
+	font-family: "Trebuchet MS", Helvetica, Geneva, Arial, sans-serif;
+}
+p {
+	margin-top: 0.35em;
+	padding: 0px;
+	line-height: 1.5em;
+}
+ul {
+	margin-top: .35em;
+	margin-left: 1em;
+	padding: 0px;
+}
+li {
+	line-height: 1.5em;
+}
+dl {
+	margin: .35em 0px 0px;
+	padding: 0px;
+}
+dt {
+	color: #339;
+	text-indent: -.5em;
+	margin: 1em 0px 0px;
+	padding: 0px;
+}
+dd {
+	line-height: 1.2em;
+	margin: .35em 0px 0px;
+	padding: 0px;
+}
+.date {
+	color: #999;
+	font-size: .8em;
+	line-height: 1em;
+}
+p#date {
+	font-style: italic;
+	text-align: right;
+}
