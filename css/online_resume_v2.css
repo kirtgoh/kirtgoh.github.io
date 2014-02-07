@@ -1,0 +1,88 @@
+@charset "UTF-8";
+/* CSS Document */
+
+body {
+	color: #333;
+	font-family: Arial, Verdana, "Lucida Bright", Helvetica, sans-serif;
+	background-color: #999;
+	text-align: right;
+	margin: 0px;
+	padding: 0px;
+	background-image: url(../images/bg_texture.gif);
+	background-repeat: repeat;
+}
+h1, h2, h3, h4, h5, h6 {
+	text-indent: -0.75em;
+	letter-spacing: 0.1em;
+	text-transform: uppercase;
+	color: #337;
+	padding: 0px;
+	font-family: "Trebuchet MS", Helvetica, Geneva, Arial, sans-serif;
+	margin-top: 1em;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+}
+p {
+	margin-top: 0.35em;
+	padding: 0px;
+	line-height: 1.5em;
+}
+ul {
+	margin-top: .35em;
+	margin-left: 1em;
+	padding: 0px;
+}
+li {
+	line-height: 1.5em;
+	margin: 0px;
+	padding: 0px;
+}
+dl {
+	margin: .35em 0px 0px;
+	padding: 0px;
+}
+dt {
+	color: #339;
+	text-indent: -.5em;
+	margin: 1em 0px 0px;
+	padding: 0px;
+}
+dd {
+	line-height: 1.2em;
+	margin: .35em 0px 0px;
+	padding: 0px;
+}
+.date {
+	color: #666;
+	font-size: 0.8em;
+	line-height: 1em;
+}
+p#date {
+	font-style: italic;
+	text-align: right;
+	padding: 0px;
+	margin-top: 50px;
+	margin-right: 0px;
+	margin-bottom: 25px;
+	margin-left: 0px;
+}
+#wrapper {
+	background-color: #FFF;
+	text-align: left;
+	width: 790px;
+	margin-top: 25px;
+	margin-right: auto;
+	margin-bottom: 50px;
+	margin-left: auto;
+	padding-top: 5px;
+	padding-right: 50px;
+	padding-bottom: 10px;
+	padding-left: 50px;
+	border-right-width: 2px;
+	border-bottom-width: 3px;
+	border-right-style: solid;
+	border-bottom-style: solid;
+	border-right-color: #333;
+	border-bottom-color: #333;
+}
